@@ -1,7 +1,13 @@
- # SafeSpace
+ # 🔒 SafeSpace
 
  A privacy-first web app for reporting abuse and measuring community safety. 
  SafeSpace provides anonymous, client-side encrypted reporting with tamper-proof verification (report hash), community dashboards, safety scoring, and administrative tools built on Supabase and Vite + React (TypeScript).
+
+ **Live demo:** https://safespace-rust.vercel.app/
+
+**Pitchdeck:** [[https://www.canva.com/design/DAG4k1JoeTo/b1M9L6oDd4JMFJsLrkg4Ig/edit?utm_content=DAG4k1JoeTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]](https://www.canva.com/design/DAG4k1JoeTo/b1M9L6oDd4JMFJsLrkg4Ig/edit)
+
+**Source:** (https://github.com/Aisha-Barasa/safespace)
 
  ## 🚀 Features
  - Submit anonymous, end-to-end encrypted reports (AES-GCM) from the browser
