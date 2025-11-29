@@ -5,9 +5,9 @@
 
  **Live demo:** https://safespace-rust.vercel.app/
 
-**Pitchdeck:** [[[https://www.canva.com/design/DAG4k1JoeTo/b1M9L6oDd4JMFJsLrkg4Ig/edit?utm_content=DAG4k1JoeTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]](https://www.canva.com/design/DAG4k1JoeTo/b1M9L6oDd4JMFJsLrkg4Ig/edit)](https://www.canva.com/design/DAG4k1JoeTo/b1M9L6oDd4JMFJsLrkg4Ig/edit?utm_content=DAG4k1JoeTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+**Pitchdeck:** https://www.canva.com/design/DAG4k1JoeTo/b1M9L6oDd4JMFJsLrkg4Ig/edit?utm_content=DAG4k1JoeTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-**Source:** (https://github.com/Aisha-Barasa/safespace)
+**Source:** https://github.com/Aisha-Barasa/safespace
 
  ## 🚀 Features
  - Submit anonymous, end-to-end encrypted reports (AES-GCM) from the browser
